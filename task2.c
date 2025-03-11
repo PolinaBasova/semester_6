@@ -52,7 +52,7 @@ void t2_2(){
             lnLsum_prev = lnLsum;
         }
         cout <<"N = "<< N <<" min degree: " << deg-1 << endl;
-        //s->Draw();
+        s->Draw();
         //s->SaveAs("task2.png");
     }
 
